@@ -1,2 +1,2 @@
-# Rhino-CVE-Exploits
-A collection of proof-of-concept exploit scripts for various CVEs discovered by the team at Rhino Security Labs.
+# Rhino CVE Proof-of-Concept Exploits
+A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
