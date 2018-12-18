@@ -17,5 +17,5 @@ Explain why/how the exploit works.
 ### Usage/Exploitation
 Give instructions on exploiting the vulnerability (whether that is how to use the included CVE-XXXX-XXXX.py exploit or how to manually do it)  
 
-### Screenshot (include if it makes sense to)
+### Screenshot
 ![Alt-text that shows up on hover](poc_image.png)
