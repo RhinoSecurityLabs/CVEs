@@ -6,3 +6,4 @@ A collection of proof-of-concept exploit scripts written by the team at Rhino Se
 * [CVE-2018-5757: Authenticated RCE in AudioCodes 450HD Phone](CVE-2018-5757/)
 * [CVE-2018-5758: XXE in Jive-n](CVE-2018-5758/)
 * [CVE-2018-8024: Apache Spark XSS vulnerability in UI](CVE-2018-8024/)
+* [CVE-2018-1335: Command Injection in Apache Tika](/CVE-2018-1335)
