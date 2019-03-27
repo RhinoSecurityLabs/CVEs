@@ -7,4 +7,4 @@ A collection of proof-of-concept exploit scripts written by the team at Rhino Se
 * [CVE-2018-5758: XXE in Jive-n](CVE-2018-5758/)
 * [CVE-2018-8024: Apache Spark XSS vulnerability in UI](CVE-2018-8024/)
 * [CVE-2018-1335: Command Injection in Apache Tika](CVE-2018-1335/)
-* [CVE‑2019‑5674: Arbitrary File Overwrite in NVIDIA GeForce Experience](CVE‑2019‑5674/)
+* [CVE‑2019‑5674: Arbitrary File Overwrite in NVIDIA GeForce Experience](CVE-2019-5674/)
