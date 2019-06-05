@@ -9,4 +9,4 @@ A collection of proof-of-concept exploit scripts written by the team at Rhino Se
 * [CVE-2018-1335: Command Injection in Apache Tika](CVE-2018-1335/)
 * [CVE‑2019‑5674: Arbitrary File Overwrite in NVIDIA GeForce Experience](CVE‑2019‑5674/)
 * [CVE-2019-0227: Apache Axis Remote Code Execution](CVE-2019-0227/)
-* [CVE-2019-NVIDIA: Command Injection in Nvidia GeForce Experience Web Helper](CVE-2019-5678/)
+* [CVE-2019-5678: Command Injection in Nvidia GeForce Experience Web Helper](CVE-2019-5678/)
