@@ -1,8 +1,10 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
 
-* [CVE‑2019‑16864: CompleteFTP Server Authenticated Remote Command Execution](CVE‑2019‑16864/)
 * [CVE-2019-16116: CompleteFTP Server Local Privilege Escalation](CVE-2019-16116/)
+* [CVE-2019-9926: LabKey Server CSRF](CVE-2019-9926/)
+* [CVE-2019-9758: LabKey Server Stored XSS](CVE-2019-9758/)
+* [CVE-2019-9757: LabKey Server XXE](CVE-2019-9757/)
 * [CVE-2019-5678: Command Injection in Nvidia GeForce Experience Web Helper](CVE-2019-5678/)
 * [CVE-2019-5674: Arbitrary File Overwrite in Nvidia GeForce Experience](CVE‑2019‑5674/)
 * [CVE-2019-0227: Apache Axis Remote Code Execution](CVE-2019-0227/)
