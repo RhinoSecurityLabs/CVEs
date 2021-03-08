@@ -5,7 +5,7 @@ A collection of proof-of-concept exploit scripts written by the team at Rhino Se
 * [CVE-2019-16116: CompleteFTP Server Local Privilege Escalation](CVE-2019-16116/)
 * [CVE‑2019‑16864: CompleteFTP Server Authenticated Remote Command Execution](CVE‑2019‑16864/)
 * [CVE-2019-9926: LabKey Server RCE Via CSRF](CVE-2019-9926/)
-* [CVE-2019-9758: LabKey Server Stored XSS](CVE-2019-9758/)
+* [CVE-2019-9758: LabKey Server RCE Via Stored XSS](CVE-2019-9758/)
 * [CVE-2019-9757: LabKey Server XXE](CVE-2019-9757/)
 * [CVE-2019-5678: Nvidia GeForce Experience Web Helper Command Injection](CVE-2019-5678/)
 * [CVE-2019-5674: Nvidia GeForce Experience Arbitrary File Overwrite](CVE‑2019‑5674/)
