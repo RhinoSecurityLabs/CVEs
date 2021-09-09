@@ -17,7 +17,7 @@ A collection of proof-of-concept exploit scripts written by the team at Rhino Se
 * [CVE-2018-20621: MEmu Android Emulator Local Privilege Escalation](CVE-2018-20621/)
 * [CVE-2018-1335: Command Injection in Apache Tika-server](CVE-2018-1335/)
 * [CVE-2018-1000110: User and Node Enumeration Through Jenkins Git Plugin <v3.7](CVE-2018-1000110/)
-* [CVE-2017-7284: Force Password Change Without Current Password](CVE-2017-7284/)
+* [CVE-2017-7284: Unitrends Force Password Change Without Current Password](CVE-2017-7284/)
 * [CVE-2017-7283: Unitrends Enterprise Backup Solution RCE via Retore File](CVE-2017-7283/)
 * [CVE-2017-7282: Unitrends Enterprise Backup Solution LFI ](CVE-2017-7282/)
 * [CVE-2017-7281: Unitrends Enterprise Backup Solution RCE Via File Upload](CVE-2017-7281/)
