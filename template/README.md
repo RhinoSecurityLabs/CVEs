@@ -6,6 +6,7 @@ Remember to end each line under the "Information" header with 2 space characters
 ## Information
 **Description:** This thing allows this exploit in this software.  
 **Versions Affected:** The software versions 1 to 10  
+**Version Fixed:** Known fixed version  
 **Researcher:** You (https://github.com/you (or some other link))  
 **Disclosure Link:** Link to the blog, newsletter, etc. where your vulnerability was disclosed  
 **NIST CVE Link:** https://nvd.nist.gov/vuln/detail/CVE-XXXX-XXXX  
