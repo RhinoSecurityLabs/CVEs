@@ -1,6 +1,8 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
 * [CVE-2022-25372: Local Privilege Escalation In Pritunl VPN Client](CVE-2022-25372/)
+* [CVE-2022-25166: AWS VPN Client Arbitrary File Write as SYSTEM](CVE-2022-25166/)
+* [CVE-2022-25165: AWS VPN Client Information Disclosure Via UNC Path](CVE-2022-25165/)
 * [CVE-2021-38112: AWS WorkSpaces Remote Code Execution](CVE-2021-38112/)
 * [CVE-2020-5377 and CVE-2021-21514: Dell OpenManage Server Administrator Arbitrary File Read](CVE-2020-5377_CVE-2021-21514/)
 * [CVE-2020-13405: MicroWeber Unauthenticated User Database Disclosure](CVE-2020-13405/)
