@@ -1,5 +1,9 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+* [CVE-2023-43121: Extreme Networks EXOS Unauthenticated File Read](CVE-2023-43121/)
+* [CVE-2023-43120: Extreme Networks EXOS Privilege Escalation from read-only User to Admin](CVE-2023-43120/)
+* [CVE-2023-43119: Extreme Networks EXOS Arbitrary File Write as Root](CVE-2023-43119/)
+* [CVE-2023-43118: Extreme Networks EXOS CSRF to RCE](CVE-2023-43118/)
 * [CVE-2022-25372: Local Privilege Escalation In Pritunl VPN Client](CVE-2022-25372/)
 * [CVE-2022-25237: Authorization Bypass Leading to RCE in Bonitasoft Web](CVE-2022-25237/)
 * [CVE-2022-25166: AWS VPN Client Arbitrary File Write as SYSTEM](CVE-2022-25166/)
