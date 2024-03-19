@@ -1,7 +1,7 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
 * [CVE-2024-23724: Ghost CMS Stored XSS Leading to Owner Takeover](CVE-2024-23724/)
-* [CVE-2024-1212: Unauthenticated RCE in Progress Kemp LoadMaster](CVE-2024-1212/)
+* [CVE-2024-1212: Unauthenticated Command Injection in Progress Kemp LoadMaster](CVE-2024-1212/)
 * [CVE-2023-47327: Silverpeas Core Space Create Function is vulnerable to Broken Access Control](CVE-2023-47327/)
 * [CVE-2023-47326: Silverpeas Core Domain Creation is vulnerable to CSRF](CVE-2023-47326/)
 * [CVE-2023-47325: Silverpeas Core Broken Access Control on the "Bin" Allows Modification of Deleted Spaces](CVE-2023-47325/)
