@@ -1,5 +1,7 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+* [CVE-2024-2449: Cross-Site Requets Forgery in Progress Kemp LoadMaster](CVE-2024-2449/)
+* [CVE-2024-2448: Authenticated Command Injection in Progress Kemp LoadMaster](CVE-2024-2448/)
 * [CVE-2024-23724: Ghost CMS Stored XSS Leading to Owner Takeover](CVE-2024-23724/)
 * [CVE-2024-1212: Unauthenticated Command Injection in Progress Kemp LoadMaster](CVE-2024-1212/)
 * [CVE-2023-47327: Silverpeas Core Space Create Function is vulnerable to Broken Access Control](CVE-2023-47327/)
