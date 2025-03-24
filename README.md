@@ -1,5 +1,7 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+* [CVE-2024-55963: Denial of Service via Broken Access Control allowing “App Viewer” access to ‘Restart’ API request](CVE-2024-55965/)
+* [CVE-2024-55963: Unauthenticated Remote Code Execution as postgres user](CVE-2024-55963/)
 * [CVE-2024-46507: YETI platform SSTI](CVE-2024-46507/)
 * [CVE-2024-2449: Cross-Site Requets Forgery in Progress Kemp LoadMaster](CVE-2024-2449/)
 * [CVE-2024-2448: Authenticated Command Injection in Progress Kemp LoadMaster](CVE-2024-2448/)
