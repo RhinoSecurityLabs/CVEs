@@ -1,7 +1,12 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+* [CVE-2025-32815: Infoblox NetMRI Authentication Bypass via Hardcoded Credentials](CVE-2025-32815/)
+* [CVE-2025-32814: Infoblox NetMRI Unauthenticated SQL Injection via skipjackUsername](CVE-2025-32814/)
+* [CVE-2025-32813: Infoblox NetMRI Unauthenticated Command Injection in get_saml_request](CVE-2025-32813/)
 * [CVE-2024-55965: Denial of Service via Broken Access Control allowing “App Viewer” access to ‘Restart’ API request](CVE-2024-55965/)
 * [CVE-2024-55963: Unauthenticated Remote Code Execution as postgres user](CVE-2024-55963/)
+* [CVE-2024-54188: Infoblox NetMRI Authenticated Arbitrary File Read as Root](CVE-2024-54188/)
+* [CVE-2024-52874: Infoblox NetMRI Authenticated SQL Injection in Run.tdf](CVE-2024-52874/)
 * [CVE-2024-46507: YETI platform SSTI](CVE-2024-46507/)
 * [CVE-2024-2449: Cross-Site Requets Forgery in Progress Kemp LoadMaster](CVE-2024-2449/)
 * [CVE-2024-2448: Authenticated Command Injection in Progress Kemp LoadMaster](CVE-2024-2448/)
