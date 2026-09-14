@@ -1,5 +1,8 @@
 # Rhino CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+* [CVE-2026-46546: Frappe LMS Header Tag Injection Leading to Open Redirect](CVE-2026-46546/)
+* [CVE-2026-39405: Frappe LMS Path Traversal in SCORM Package Upload Leading to Remote Code Execution](CVE-2026-39405/)
+* [CVE-2026-34606: Frappe LMS Stored XSS in Profile Bio and Other Fields](CVE-2026-34606/)
 * [CVE-2025-32815: Infoblox NetMRI Authentication Bypass via Hardcoded Credentials](CVE-2025-32815/)
 * [CVE-2025-32814: Infoblox NetMRI Unauthenticated SQL Injection via skipjackUsername](CVE-2025-32814/)
 * [CVE-2025-32813: Infoblox NetMRI Unauthenticated Command Injection in get_saml_request](CVE-2025-32813/)
